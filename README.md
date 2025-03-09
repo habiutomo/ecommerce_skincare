@@ -3,7 +3,7 @@
 
 A full-featured e-commerce platform for skincare products built with modern web technologies. The application features a React frontend with TypeScript and an Express.js backend.
 ![Logo Skincare](page.png)
-![Logo Skincare](page2.png)
+![Logo Skincare](page1.png)
 
 ## Features
 
