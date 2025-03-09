@@ -89,4 +89,4 @@ This project is configured to be deployed on Replit.
 
 ## License
 MIT
-habizinnia@gmail.com
+habizinnia@gmail.com - silahkan email jika butuh repo ini
